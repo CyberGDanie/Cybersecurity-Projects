@@ -7,7 +7,7 @@ Documentation of cybersecurity projects performed in my home lab environment; sh
 - [Setup Instructions](#setup-instructions)
 - [Tools Used](#tools-used)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Overview
 The purpose of this repository is to showcase my Homelab projects serving as a knowledge source and reference guide.
@@ -16,8 +16,9 @@ The purpose of this repository is to showcase my Homelab projects serving as a k
   
 ## Setup Instructions
 
-Project: Building and configuring a Firewall.
-Setting up Uncomplicated Firewall. 
+**Project: Building and configuring a Firewall.**
+
+**Setting up Uncomplicated Firewall.** 
 
 1. Updated Ubuntu and Kali Linux Systems 
 
@@ -39,7 +40,7 @@ Setting up Uncomplicated Firewall.
 
 10. Testing Firewall using Nmap on Kali machine to check for open ports. 
 
-Created a fire wall with configured rules and monitored logging. 
+**Created a fire wall with configured rules and monitored logging.**
 
 
 ## Tools Used
