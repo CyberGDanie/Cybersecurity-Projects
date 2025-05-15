@@ -36,9 +36,9 @@ Setting up Uncomplicated Firewall.
 
 7. Allowing specific Applications.
 
-8.Enabling Logging 
+8. Enabling Logging
 
-9. Firewall status. 
+9. Firewall status.
 
 10. Testing Firewall using Nmap on Kali machine to check for open ports. 
 
