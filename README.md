@@ -16,9 +16,8 @@ The purpose of this repository is to showcase my Homelab projects serving as a k
   
 ## Setup Instructions
 
-**Project: Building and configuring a Firewall. 
-**
-**Setting up Uncomplicated Firewall**. 
+Project: Building and configuring a Firewall.
+Setting up Uncomplicated Firewall. 
 
 1. Updated Ubuntu and Kali Linux Systems 
 
