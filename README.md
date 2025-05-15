@@ -26,57 +26,27 @@ Setting up Uncomplicated Firewall.
 
 2. Installed Uncomplicated fire wall (UFW). 
 
-Picture 
-
 3. Enabled UFW 
 
-Picture 
-
-4. Allowed SSH connections and specific service ports. 
-
-Picture 
-
-Picture 
+4. Allowed SSH connections and specific service ports.  
 
 5. Allowing specific IP address and Port ranges. 
 
-Picture 
-
 6. Denying Ports. 
 
-Picture 
-
-7. Allowing specific Applications. 
-
-Picture 
-
- 
+7. Allowing specific Applications.
 
 8.Enabling Logging 
 
-Picture 
-
 9. Firewall status. 
-
-Picture 
-
- 
-
- 
-
- 
 
 10. Testing Firewall using Nmap on Kali machine to check for open ports. 
 
-Picture 
-
-Picture 
-
-Created a fire wall with configured rules and monitored logging.
+Created a fire wall with configured rules and monitored logging. 
 
 
 ## Tools Used
-Ubuntu
+Ubuntu Virtual Machine, Kali Linux Virtual Machine
 
 
 
