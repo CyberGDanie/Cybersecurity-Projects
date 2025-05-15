@@ -10,17 +10,15 @@ Documentation of cybersecurity projects performed in my home lab environment; sh
 - [License](#license)
 
 ## Overview
-The purpose of this repository is to showcase the my Homelab projects serving as a knowledge source and reference guide.
+The purpose of this repository is to showcase my Homelab projects serving as a knowledge source and reference guide.
 ## Projects
 - **Project 1**: Building and configuring a Firewall. 
   
 ## Setup Instructions
 
-Project: Building and configuring a Firewall. 
-
-Requirements: Ubuntu Virtual Machine and Kali Linux VM. 
-
-Setting up Uncomplicated Firewall. 
+**Project: Building and configuring a Firewall. 
+**
+**Setting up Uncomplicated Firewall**. 
 
 1. Updated Ubuntu and Kali Linux Systems 
 
