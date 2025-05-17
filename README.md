@@ -1,4 +1,4 @@
-# Cybersecurity-Projects
+# Cybersecurity-Projects - Building and configuring a Firewall.
 Documentation of cybersecurity projects performed in my home lab environment; showcasing tools utilized and guide to the projects setup steps.
 
 ## Table of Contents
